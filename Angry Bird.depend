@@ -209,14 +209,13 @@
 1301111156 c:\program files (x86)\codeblocks\mingw\include\oleidl.h
 	<objfwd.h>
 
-1563216374 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+976645372 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
 	<windows.h>
 	<GL/gl.h>
 	<GL/glu.h>
 
-1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
+893358000 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
 
-1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
-	<stddef.h>
+893358000 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
 	<GL/gl.h>
 
